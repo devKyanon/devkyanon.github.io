@@ -21,15 +21,17 @@ Research Interest
 
 
 Education
-: Ph.D., Computer Science - Information Security, Korea Advanced Institute of Science and Technology (KAIST), 2021.
-: &nbsp;&nbsp;&nbsp;&nbsp; • Dissertation: Design and implementation of the data plane for provisioning high-performance security services in a dynamic network environment
-: &nbsp;&nbsp;&nbsp;&nbsp; • Advisor: [Seungwon Shin](http://nss.kaist.ac.kr/?page_id=29)
-: M.S., Computer Science - Information Security, Korea Advanced Institute of Science and Technology (KAIST), 2015.
-: B.S., Computer Science, Korea Maritime and Ocean University, 2013.
+: • Ph.D., Computer Science - Information Security, Korea Advanced Institute of Science and Technology (KAIST), 2021.
+: &nbsp;&nbsp;&nbsp;&nbsp; ▶︎ Dissertation: Design and implementation of the data plane for provisioning high-performance security services in a dynamic network environment
+: &nbsp;&nbsp;&nbsp;&nbsp; ▶︎ Advisor: [Seungwon Shin](http://nss.kaist.ac.kr/?page_id=29)
+:
+: • M.S., Computer Science - Information Security, Korea Advanced Institute of Science and Technology (KAIST), 2015.
+:
+: • B.S., Computer Science, Korea Maritime and Ocean University, 2013.
 
 Experiences
-:  SRI International (Dec. 2016 - Mar. 2017)
-:    Samsung Software Membership (Feb. 2012 - Aug. 2015)
+: • SRI International (Dec. 2016 - Mar. 2017)
+: • Samsung Software Membership (Feb. 2012 - Aug. 2015)
 
 Academical services
 : 
