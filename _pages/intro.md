@@ -7,9 +7,8 @@ author_profile: true
 #    - /introduction
 #    - /intro.html
 ---
-
-## Postdoctoral Research Fellow
-## Network and System Security (NSS) Lab., KAIST (Daejeon, Republic of Korea)
+Postdoctoral Research Fellow
+Network and System Security (NSS) Lab., KAIST (Daejeon, Republic of Korea)
 🏢 N1 Building #919, KAIST, 291 Daehak-ro, Yuseong-Gu, Daejeon 34141, South Korea  
 📧 taejune.park@kaist.ac.kr / devkyanon@gmail.com
 
