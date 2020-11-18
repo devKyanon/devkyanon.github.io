@@ -19,9 +19,17 @@ Short Biography
 Research Interest
 :   His research interests focus on a network data plane architecture, dynamic network environment (e.g., software-defined networking (SDN) and network function virtualization (NFV)), and security. He is especially interested in low-latency service provisioning in edge computing environments such as multi-access edge computing as known also Mobile edge computing, MEC. 
 
-Under construction....................
 
+Education
+:   List item one 
+:   List item one 
+:   List item one 
 
+Experiences
+:    * List item one
+
+Academical services
+:    List item one 
 
 
 <!-- Welcome! I am a Postdoctoral Research Fellow in the

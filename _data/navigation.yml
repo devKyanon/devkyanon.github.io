@@ -3,8 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Patents"
+    url: /patents/
+    
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Activities"
+    url: /activities/
 
   # - title: "Teaching"
   #   url: /teaching/    
