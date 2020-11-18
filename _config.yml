@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Taejune Park"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate @ KAIST"
+  bio              : "Ph.D candidate \n NSS, KAIST" 
   location         : "Daejeon, Republic of Korea"
-  test             : "this is test"
-  employer         : "https://nss.kaist.ac.kr"
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yjrmSkAAAAAJ"
   email            : "taejune.park@kaist.ac.kr"
