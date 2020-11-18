@@ -1,1 +1,1 @@
-This repository borrows https://academicpages.github.io/ (https://github.com/academicpages/academicpages.github.io)
+The template borrowed from https://academicpages.github.io/ (https://github.com/academicpages/academicpages.github.io)
