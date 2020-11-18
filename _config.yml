@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D candidate @ KAIST"
   location         : "Daejeon, Republic of Korea"
-  employer         :
+  test             : "this is test"
+  employer         : "https://nss.kaist.ac.kr"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yjrmSkAAAAAJ"
   email            : "taejune.park@kaist.ac.kr"
