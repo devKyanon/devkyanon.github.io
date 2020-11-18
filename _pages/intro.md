@@ -33,8 +33,8 @@ Education
 : ● B.S., Computer Science, Korea Maritime and Ocean University, 2013.
 
 Experiences
-: ● SRI International (Dec. 2016 - Mar. 2017)
-: ● Samsung Software Membership (Feb. 2012 - Aug. 2015)
+: • SRI International (Dec. 2016 - Mar. 2017)
+: • Samsung Software Membership (Feb. 2012 - Aug. 2015)
 
 Academical services
 : 
