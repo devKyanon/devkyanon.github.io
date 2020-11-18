@@ -7,9 +7,9 @@ author_profile: true
 #    - /introduction
 #    - /intro.html
 ---
-🎓 Postdoctoral Research Fellow
-
+🎓 Postdoctoral Research Fellow  
 🏢 Network and System Security (NSS) Lab., KAIST (Daejeon, Republic of Korea) 
+
 <address> 
   N1 Building #919, KAIST, 291 Daehak-ro, Yuseong-Gu, Daejeon 34141, Republic of Korea
 </address>
