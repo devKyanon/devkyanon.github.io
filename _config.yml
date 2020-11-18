@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Taejune Park"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate
-                      <br/>
+  bio              : > 
+                      Ph.D candidate
                       <a href="https://nss.kaist.ac.kr"> NSS </a>,
-                      <a href="https://www.kaist.ac.kr"> KAIST </a>" 
+                      <a href="https://www.kaist.ac.kr"> KAIST </a>
   location         : "Daejeon, Republic of Korea"
   employer         : 
   pubmed           : 
