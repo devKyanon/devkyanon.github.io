@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /intro
 title: "Introduction"
 author_profile: true
-redirect_from: 
-   - /intro
-   - /introduction
-   - /intro.html
+# redirect_from: 
+#    - /intro
+#    - /introduction
+#    - /intro.html
 ---
 
 Under construction....................
