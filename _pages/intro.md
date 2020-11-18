@@ -12,7 +12,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; _Network and System Security (NSS) Lab., KAIST (Daejeon, Republic of Korea)_  
 🏢 N1 Building #919, KAIST, 291 Daehak-ro, Yuseong-Gu, Daejeon 34141, Republic of Korea  
 📧 taejune.park@kaist.ac.kr / devkyanon@gmail.com
-------
 
 ------
 
@@ -25,7 +24,8 @@ Research Interests
 
 Education
 : • Ph.D., Computer Science - Information Security, Korea Advanced Institute of Science and Technology (KAIST), 2021.
-: &nbsp;&nbsp;&nbsp;&nbsp; _‣ Dissertation: Design and implementation of the data plane for provisioning high-performance security services in a dynamic network environment_
+: &nbsp;&nbsp;&nbsp;&nbsp; _‣ Dissertation: Design and implementation of the data plane for provisioning high-performance security services_ 
+: &nbsp;&nbsp;&nbsp;&nbsp;   _in a dynamic network environment_
 : &nbsp;&nbsp;&nbsp;&nbsp; _‣ Advisor: [Seungwon Shin](http://nss.kaist.ac.kr/?page_id=29)_
 : • M.S., Computer Science - Information Security, Korea Advanced Institute of Science and Technology (KAIST), 2015.
 : • B.S., Computer Science, Korea Maritime and Ocean University, 2013.
