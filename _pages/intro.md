@@ -1,5 +1,5 @@
 ---
-permalink: /intro
+permalink: /intro/
 title: "Introduction"
 author_profile: true
 # redirect_from: 
