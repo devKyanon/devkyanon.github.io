@@ -12,11 +12,16 @@ author_profile: true
 🏢 N1 Building #919, KAIST, 291 Daehak-ro, Yuseong-Gu, Daejeon 34141, Republic of Korea  
 📧 taejune.park@kaist.ac.kr / devkyanon@gmail.com
 
+---
 
-Short Biography
-:   Taejune Park is currently pursuing the Ph.D. degree in School of Computing at KAIST, Republic of Korea, from September 2015. He received his B.S. degree in Computer Engineering at Korea Maritime and Ocean University, Republic of Korea, in August 2013, and his M.S. degree in information security at KAIST, Republic of Korea, in August 2015. His research interests focus on security issues on an SDN/NFV environment and a data plane architecture.
+___
 
-Research Interest
+===
+
+<!-- Biography
+:   Taejune Park is currently pursuing the Ph.D. degree in School of Computing at KAIST, Republic of Korea, from September 2015. He received his B.S. degree in Computer Engineering at Korea Maritime and Ocean University, Republic of Korea, in August 2013, and his M.S. degree in information security at KAIST, Republic of Korea, in August 2015. His research interests focus on security issues on an SDN/NFV environment and a data plane architecture. -->
+
+Research Interests
 :   His research interests focus on a network data plane architecture, dynamic network environment (e.g., software-defined networking (SDN) and network function virtualization (NFV)), and security. He is especially interested in low-latency service provisioning in edge computing environments such as multi-access edge computing as known also Mobile edge computing, MEC. 
 
 
