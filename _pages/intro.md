@@ -35,7 +35,6 @@ Academical services
 
 
 ## Academical services
-
 : Does it work alone?
 
 
